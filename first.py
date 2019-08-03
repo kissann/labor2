@@ -1,0 +1,6 @@
+print("Введите три числа:")
+x= float(input("x = "))
+y = float(input("y = "))
+z = float(input("z = "))
+m=max(x,y,z)
+print("Max = %.2f" % (m))
